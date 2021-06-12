@@ -54,7 +54,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu745511&theme=tokyonight&show_icons=true)
+<img src = "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu745511&theme=tokyonight&show_icons=true)">
 
   <img align="left" alt="mu745511's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mu745511&show_icons=true&hide_border=true" />
 
