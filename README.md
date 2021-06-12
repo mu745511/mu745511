@@ -3,9 +3,8 @@
                 <li><a href="https://www.facebook.com/shubham.thapa.5249"><i class="fab fa-facebook"></i></a></li>
                 <li><a href="https://www.linkedin.com/in/shubham-thapa-2324841b3/"><i class="fab fa-linkedin"></i></a></li> 
                 <li><a href="https://twitter.com/Shubham65676765"><i class="fab fa-twitter"></i></a></li>
-                <li><a href="https://www.instagram.com/shubham_thapa8/"><i class="fab fa-instagram"></i></a></li> 
-    
-     </ul>
+                <li><a href="https://www.instagram.com/shubham_thapa8/"><i class="fab fa-instagram"></i></a></li> </>
+   
 
 
   ### I'm a self-taught DataScientist from India !
