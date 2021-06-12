@@ -1,6 +1,6 @@
-### Hi there, I'm ShubhamThapa 👋
+# Hi there, I'm ShubhamThapa 👋
 
-### Get in Touch 👋
+# Get in Touch 👋
 
 
 <a href = "mailto:mu745511@gmail.com" > <img align = "left" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
@@ -28,12 +28,12 @@
 - 🥅 2021 Goals: Making AI benefitial , more accessable to all. 
 - ⚡ Fun fact: I love to train my models in tesla V-100 and play CSGO .  
 
-### Spotify Playing 🎧
+# Spotify Playing 🎧
 
 [![Spotify](https://novatorem-alpha-amber.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem-alpha-amber)
 
 
-## Languages :
+# Languages :
 
 <img align = "left" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> 
 <img  align = "left" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
@@ -46,7 +46,7 @@
 
 <br>
 
-## Web Frameworks and tools  :
+# Web Frameworks and tools  :
 <img align = "left" src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
 <img align = "left" src = "https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/> 
 <img align = "left" src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> 
@@ -65,7 +65,7 @@
 
 
 
-## Database :
+# Database :
 <img align = "left" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
 <img align = "left" src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
 <img align = "left" src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
@@ -73,7 +73,7 @@
 
 <br>
 
-## ML and DeepLearning Frameworks and tools :
+# ML and DeepLearning Frameworks and tools :
 <img align = "left" src = "https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/> 
 <img align = "left" src = "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> 
 <img align = "left" src = "https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/> 
@@ -96,7 +96,7 @@
 <br>
 </br>
 
-## OS , Software tools and Customization tools :
+# OS , Software tools and Customization tools :
 
 <img align = "left" src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
 <img align = "left" src = "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
