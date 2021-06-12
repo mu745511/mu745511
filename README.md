@@ -19,9 +19,10 @@
 <a href = "https://twitter.com/Shubham65676765" > <img align = "left" src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
  
   <br>
+  </br>
 
 
-  ### I'm a self-taught DataScientist from India !
+  ## I'm a self-taught DataScientist from India !
 - 🔭 I’m currently working on image segmentation for geospatial images . 
 - 🌱 I’m currently learning unsuperwised means of learning , django-backend , parallel processing [TPUs]. 
 - 👯 I’m looking to collaborate with other projects realted to AI .
