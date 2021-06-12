@@ -33,7 +33,7 @@
 [![Spotify](https://novatorem-alpha-amber.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem-alpha-amber)
 
 
-# Languages :
+# Languages I use:
 
 <img align = "left" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> 
 <img  align = "left" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
@@ -45,8 +45,11 @@
 <img align = "left" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
 
 <br>
+</br>
+<br>
+</br>
 
-# Web Frameworks and tools  :
+# Web Frameworks and tools I use :
 <img align = "left" src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
 <img align = "left" src = "https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/> 
 <img align = "left" src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> 
@@ -62,18 +65,22 @@
 
 <br>
 </br>
+<br>
+</br>
 
 
-
-# Database :
+# Database I use:
 <img align = "left" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
 <img align = "left" src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
 <img align = "left" src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 <img align = "left" src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> 
 
 <br>
+</br>
+<br>
+</br>
 
-# ML , DeepLearning Frameworks and tools :
+# ML , DeepLearning Frameworks and tools I use:
 <img align = "left" src = "https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/> 
 <img align = "left" src = "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> 
 <img align = "left" src = "https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/> 
@@ -98,7 +105,7 @@
 <br>
 </br>
 
-# OS , Software tools and Customization tools :
+# OS , Software tools and Customization tools I use :
 
 <img align = "left" src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
 <img align = "left" src = "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
