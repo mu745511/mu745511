@@ -3,12 +3,19 @@
 ### Get in Touch 👋
 
 
-<a href = "https://www.linkedin.com/in/shubham-thapa-2324841b3/"> <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
+<a href = "mailto:mu745511@gmail.com" > <img align = "left" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
-
-<a href = "https://www.linkedin.com/in/shubham-thapa-2324841b3/"> <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
+<a href = "https://www.linkedin.com/in/shubham-thapa-2324841b3/" > <img align = "left" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 <a href = "https://www.linkedin.com/in/shubham-thapa-2324841b3/" > <img align = "left" src = "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> </a>
+
+<a href = "https://www.linkedin.com/in/shubham-thapa-2324841b3/" > <img align = "left" src = "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> </a>
+
+<a href = "https://www.kaggle.com/trooperog" > <img align = "left" src = "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> </a>
+
+<a href = "https://www.facebook.com/shubham.thapa.5249" > <img align = "left" src = "	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
+
+<a href = "https://www.instagram.com/shubham_thapa8/" > <img align = "left" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 
  
   <br>
