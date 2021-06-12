@@ -18,6 +18,9 @@
 
 <a href = "https://twitter.com/Shubham65676765" > <img align = "left" src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
  
+<br>
+</br>
+ 
  ## I'm a self-taught DataScientist from India !
 - 🔭 I’m currently working on image segmentation for geospatial images . 
 - 🌱 I’m currently learning unsuperwised means of learning , django-backend , parallel processing [TPUs]. 
@@ -67,8 +70,7 @@
 <img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 <img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> 
 </p>	
-<br>
-</br>
+
 
 ## ML , DeepLearning Frameworks and tools I use:
 <p float="left">
