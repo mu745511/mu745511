@@ -46,6 +46,7 @@
 
 <br>
 </br>
+
 # Web Frameworks and tools I use :
 <img align = "left" src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
 <img align = "left" src = "https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/> 
