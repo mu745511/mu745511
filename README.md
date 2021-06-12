@@ -1,10 +1,4 @@
 ### Hi there, I'm ShubhamThapa 👋
-<ul class="social-menu"> 
-                <li><a href="https://www.facebook.com/shubham.thapa.5249"><i class="fab fa-facebook"></i></a></li>
-                <li><a href="https://www.linkedin.com/in/shubham-thapa-2324841b3/"><i class="fab fa-linkedin"></i></a></li> 
-                <li><a href="https://twitter.com/Shubham65676765"><i class="fab fa-twitter"></i></a></li>
-                <li><a href="https://www.instagram.com/shubham_thapa8/"><i class="fab fa-instagram"></i></a></li> </>
-   
 
 
   ### I'm a self-taught DataScientist from India !
@@ -21,7 +15,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
 <br />
