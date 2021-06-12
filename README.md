@@ -1,6 +1,6 @@
-## Hi there, I'm ShubhamThapa 👋
+# Hi there, I'm ShubhamThapa 👋
 
-## Get in Touch 👋
+# Get in Touch 👋
 
 
 <a href = "mailto:mu745511@gmail.com" > <img align = "left" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
@@ -21,7 +21,7 @@
 <br>
 </br>
  
- ## I'm a self-taught DataScientist from India !
+ # I'm a self-taught DataScientist from India !
 - 🔭 I’m currently working on image segmentation for geospatial images . 
 - 🌱 I’m currently learning unsuperwised means of learning , django-backend , parallel processing [TPUs]. 
 - 👯 I’m looking to collaborate with other projects realted to AI .
