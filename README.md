@@ -24,7 +24,7 @@
  # I'm a self-taught DataScientist from India !
 - 🔭 I’m currently working on image segmentation for geospatial images . 
 - 🌱 I’m currently learning unsuperwised means of learning , django-backend , Distributed training [TPUs]. 
-- 👯 I’m looking to collaborate with other projects realted to AI .
+- 👯 I’m looking to collaborate with other projects related to AI .
 - 🥅 2021 Goals: Making AI benefitial , more accessable to all. 
 - ⚡ Fun fact: I love to train my models in tesla V-100 and play CSGO meanwhile.  
 
