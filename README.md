@@ -25,7 +25,7 @@
 - 🔭 I’m currently working on object detection for covid19. 
 - 🌱 I’m currently learning deep face recognition [ arcface , multiface ]. 
 - 👯 I’m looking to collaborate with other projects related to AI .
-- 🥅 2021 Goals: Making AI benefitial , more accessable to all. 
+- 🥅 2021 Goals: Becoming Kaggle Competitions GM , creating SOTA Object detection Models . 
 - ⚡ Fun fact: I love to train my models in tesla V-100 and play CSGO at the mean time.  
 
 ## Spotify Playing 🎧
