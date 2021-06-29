@@ -22,7 +22,7 @@
 </br>
  
  # I'm a self-taught DataScientist from India !
-- 🔭 I’m currently working on object detection for covid19. 
+- 🔭 I’m currently working on kaggle competition SIIM COVID , SETI . 
 - 🌱 I’m currently learning deep face recognition [ arcface , multiface ]. 
 - 👯 I’m looking to collaborate with other projects related to AI .
 - 🥅 2021 Goals: Becoming Kaggle Competitions GM , creating SOTA Object detection Models . 
