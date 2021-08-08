@@ -22,7 +22,7 @@
 </br>
  
  # I'm a self-taught DataScientist from India !
-- 🔭 I’m currently working as an intern at <a href="https://www.deepedge.ai/">DeepEdge AI</a>. 
+- 🔭 I’m currently working as a Machine Learning intern at <a href="https://www.deepedge.ai/">DeepEdge AI</a>. 
 - 🌱 I’m currently looking for opportunity in the field of Computer Vision. 
 - 👯 I’m looking to collaborate with other projects related to AI .
 - 🥅 2021 Goals: Contributing more in the field of NLP and CV, creating SOTA Object detection Models . 
