@@ -26,7 +26,7 @@
 - 🌱 I’m currently sharpening my skills in the field of Computer Vision. 
 - 👯 I’m looking to collaborate with other projects related to AI .
 - 🥅 2021 Goals: Contributing more in the field of NLP and CV, creating SOTA Object detection Models . 
-- ⚡ Fun fact: I love to train my models in tesla V-100 and play CSGO at the mean time.  
+ 
 
 ## Spotify Playing 🎧
 
