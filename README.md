@@ -22,10 +22,9 @@
 </br>
  
  # I'm a Machine Learning Engineer from India !
-- 🔭 I’m currently working as a Machine Learning intern at <a href="https://www.deepedge.ai/">DeepEdge AI</a>. 
+- 🔭 I’m currently working as a Machine Learning Engineer at <a href="https://www.deepedge.ai/">DeepEdge AI</a>. 
 - 🌱 I’m currently sharpening my skills in the field of Computer Vision. 
-- 👯 I’m looking to collaborate with other projects related to AI .
-- 🥅 2021 Goals: Contributing more in the field of NLP and CV, creating SOTA Object detection Models . 
+- 🥅 2022 Goals: Contributing more in the field of NLP and CV, creating SOTA Object detection Models and deploy them in edge devices. 
  
 
 ## Spotify Playing 🎧
