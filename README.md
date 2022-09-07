@@ -63,6 +63,7 @@
 <br />
 
 ---
+<!---
 <details>
  <summary>:zap: GitHub Stats</summary>
 
@@ -71,5 +72,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu745511&show_icons=true&theme=tokyonight)
 
-
+-->
 
