@@ -1,7 +1,4 @@
-# Hi there, I'm ShubhamThapa 👋
-
-# Get in Touch 👋
-
+## Hi there, I'm ShubhamThapa 👋
 
 <a href = "mailto:mu745511@gmail.com" > <img align = "left" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
