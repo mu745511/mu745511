@@ -17,9 +17,8 @@
 <br>
 </br>
 
-- 🔭 I’m currently working as a Machine Learning Engineer. <!-- at <a href="https://www.deepedge.ai/">DeepEdge AI</a> -->
-- 🌱 I’m currently sharpening my skills in the field of Computer Vision. 
-- 🥅 2023 Goals: Contributing more in the field of NLP and CV . 
+- 🔭 I’m currently working as a Machine Learning Engineer.
+- 🌱 I’m currently working on some open source projects. 
  
 
 <!---## Spotify Playing 🎧
